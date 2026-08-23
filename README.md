@@ -42,6 +42,7 @@ A collection of applications, experiments and things I'm building.
 ## Connect With Me
 
 🌐 [Website](https://aruf.xyz)  
-💼 [LinkedIn](https://www.linkedin.com/in/maarufyusuf)  
-𝕏 [X](https://x.com/TechieAruf)
+💼 [LinkedIn](https://www.linkedin.com/in/maarufyusuf)
+𝕏 [X](https://x.com/TechieAruf)  
 📧 Email: yusufmaaruf3@gmail.com
+
