@@ -6,7 +6,7 @@
 
 # Hi, I'm Aruf 👋
 
-I'm a Telecommunications Engineering student and software developer exploring the intersection of **Telecommunications, Blockchain, Cloud Computing, and Web Development.**
+I'm a Telecommunications Engineer and software developer exploring the intersection of **Telecommunications, Blockchain, Cloud Computing, and Web Development.**
 
 ## What I Write About
 
@@ -45,7 +45,7 @@ A collection of applications, experiments and things I'm building.
 
 💼 [LinkedIn](https://www.linkedin.com/in/maarufyusuf)
 
-𝕏 [X](https://x.com/TechieAruf)
+𝕏     [X](https://x.com/TechieAruf)
 
 📧 Email: yusufmaaruf3@gmail.com
 
