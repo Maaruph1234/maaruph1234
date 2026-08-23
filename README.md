@@ -45,7 +45,7 @@ A collection of applications, experiments and things I'm building.
 
 💼 [LinkedIn](https://www.linkedin.com/in/maarufyusuf)
 
-𝕏  [X/Twitter](https://x.com/TechieAruf)
+𝕏    [X/Twitter](https://x.com/TechieAruf)
 
 📧 Email: yusufmaaruf3@gmail.com
 
